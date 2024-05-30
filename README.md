@@ -1,6 +1,6 @@
 # Hi there, I'm Jiucheng Zang 👋
 
-![University of Waterloo](person.png)
+<img align="right" src="person.png" width="40%" height="40%" />
 
 ## About Me
 
