@@ -99,3 +99,5 @@ When I'm not coding or studying, you'll likely find me exploring the great outdo
 Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work. Thank you for visiting my GitHub profile!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zangjiucheng.zangjiucheng)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zangjiucheng)](https://github.com/ryo-ma/github-profile-trophy)
