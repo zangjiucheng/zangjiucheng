@@ -71,8 +71,15 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
 
 ## 💼 Experience
 
+### Waterloo Rocketry
+**Title**: Software Developer
+**Duration**: Mar 2024 - Present
+**Responsibilities**: 
+- Contribute to Rocket Launch System Analysis System
+- DevOps workflow on GitHub
+
 ### Vanier Robotics Teams
-**Company**: Vanier CÉGEP 
+**Title**: Software Engineer
 **Duration**: Aug 2022 – Aug 2023
 **Responsibilities**:
 - Implement C++ standard libraries for Arduino avr-gcc compiler.
