@@ -11,7 +11,7 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
 ## 🛠️ Skills
 
 ### Programming Languages
-**Racket**, **CWave(Self-Developed... Currently working🛠️)**, **Java**, **C/C++** ...
+**Python**, **Racket**, **Java**, **C/C++**, **TypeScript**, **CWave(Self-Developed... Currently working🛠️)**...
 
 ### Frameworks and Libraries
 - **PyTorch**: Machine learning and AI
@@ -98,6 +98,8 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
 ## 🎉 Fun Fact
 
 You'll likely find me exploring the great outdoors, hiking, or playing chess when I'm not coding or studying. I also enjoy writing about my tech adventures and sharing my life on my blog.
+
+(Also I like to contribute to [CPython](https://github.com/python/cpython) project... that's my goal, yep!)
 
 ---
 
