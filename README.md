@@ -61,8 +61,6 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
   - Expected Graduation: Aug. 2023 - Apr. 2028
   - Relevant Courses: Data Structures and Algorithms, Operating Systems, Database Systems, Artificial Intelligence, Discrete Mathematics, Linear Algebra
 
-## 🎓 Education
-
 - **Vanier CÉGEP**
   - Computer Science and Mathematics
   - Graduate: Aug 2022 - Aug 2023
