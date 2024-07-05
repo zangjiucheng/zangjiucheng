@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Jiucheng Zang, a Computer Science and Mathematics student at the University of Waterloo. I have a deep passion for exploring and integrating multiple technology stacks to solve real-world problems. Whether it's diving into the intricacies of algorithms or building robust software solutions, I'm always eager to learn and grow.
+I'm Jiucheng Zang, a Computer Science and Mathematics student at the University of Waterloo. I have a deep passion for exploring and integrating multiple technology stacks to solve real-world problems. Whether diving into algorithms' intricacies or building robust software solutions, I'm always eager to learn and grow.
 
 ---
 
@@ -23,6 +23,25 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
 - **Docker**: Containerization and microservices
 - **NixOS(Linux)**: Reproducible Linux Systems 
 - **VSCode/Vim**: Integrated Development Environments (IDEs)
+
+---
+
+## 💼 Experience
+
+### Waterloo Rocketry
+- **Title**: Software Developer
+- [**Team Website**](https://www.waterloorocketry.com/)
+- **Duration**: Mar 2024 - Present
+- **Responsibilities**: 
+  - Contribute to Rocket Launch System Analysis System
+  - DevOps workflow on GitHub
+
+### Vanier Robotics Teams
+- **Title**: Software Engineer
+- **Duration**: Aug 2022 – Aug 2023
+- **Responsibilities**:
+  - Implement C++ standard libraries for Arduino avr-gcc compiler.
+  - Optimized the DevOps workflow for the entire team.
 
 ---
 
@@ -66,25 +85,6 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
   - Graduate: Aug 2022 - Aug 2023
   - Relevant Courses:  Data Structures & Object-Oriented Programming
 
-
----
-
-## 💼 Experience
-
-### Waterloo Rocketry
-**Title**: Software Developer
-**Duration**: Mar 2024 - Present
-**Responsibilities**: 
-- Contribute to Rocket Launch System Analysis System
-- DevOps workflow on GitHub
-
-### Vanier Robotics Teams
-**Title**: Software Engineer
-**Duration**: Aug 2022 – Aug 2023
-**Responsibilities**:
-- Implement C++ standard libraries for Arduino avr-gcc compiler.
-- Optimized the DevOps workflow for the entire team.
-
 ---
 
 ## 📫 Contact Me
@@ -97,11 +97,11 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
 
 ## 🎉 Fun Fact
 
-When I'm not coding or studying, you'll likely find me exploring the great outdoors, hiking, or playing chess. I also enjoy writing about my tech adventures and sharing tutorials on my personal blog.
+You'll likely find me exploring the great outdoors, hiking, or playing chess when I'm not coding or studying. I also enjoy writing about my tech adventures and sharing my life on my blog.
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or learn more about my work. Thank you for visiting my GitHub profile!
+Feel free to explore my repositories and let me know if you'd like to collaborate or learn more about my work. Thank you for visiting my GitHub profile!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zangjiucheng.zangjiucheng)
 
