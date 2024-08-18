@@ -53,19 +53,18 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
 
 ### [CourseExplorer](https://github.com/zangjiucheng/CourseExplorer)
 **Description**: A tool designed to simplify course selection for University of Waterloo students.  
-**Tech Stack**: Python, Django, JavaScript
+**Tech Stack**: Python, MongoDB (No-SQL)
 
 ### [GalaxyTrek-Planner](https://github.com/zangjiucheng/GalaxyTrek-Planner)
 **Description**: A planner application designed for organizing intergalactic travels and missions.  
-**Tech Stack**: Java, Spring Boot
+**Tech Stack**: Python, PyQt
 
 ### [quivr (Contribute)](https://github.com/zangjiucheng/quivr)
 **Description**: Contributing to the quivr project to enhance its functionalities and features.  
-**Tech Stack**: Depends on the project needs
 
 ### [Vanier-Robotics/RobotUtils](https://github.com/Vanier-Robotics/RobotUtils)
 **Description**: Implementing C++ standard library components for robotics applications.  
-**Tech Stack**: C++, Robotics
+**Tech Stack**: avr-gcc, Arduino
 
 ### [blog.page](https://github.com/zangjiucheng/blog.page)
 **Description**: My personal blog where I share insights and tutorials on various tech topics.  
