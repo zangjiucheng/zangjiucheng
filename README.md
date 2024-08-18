@@ -106,4 +106,4 @@ Feel free to explore my repositories and let me know if you'd like to collaborat
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zangjiucheng.zangjiucheng)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zangjiucheng&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zangjiucheng&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
