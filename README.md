@@ -4,19 +4,20 @@
 
 ## About Me
 
-I'm Jiucheng Zang, a Computer Science and Mathematics student at the University of Waterloo. I have a deep passion for exploring and integrating multiple technology stacks to solve real-world problems. Whether diving into algorithms' intricacies or building robust software solutions, I'm always eager to learn and grow.
+I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. I have a deep passion for exploring and integrating multiple technology stacks to solve real-world problems. Whether diving into algorithms' intricacies or building robust software solutions, I'm always eager to learn and grow.
 
 ---
 
 ## 🛠️ Skills
 
 ### Programming Languages
-**Python**, **Racket**, **Java**, **C/C++**, **TypeScript**, **CWave(Self-Developed... Currently working🛠️)**...
+**Python**, **Racket**, **Java**, **C/C++**, **Rust**, **TypeScript**, **CWave(Self-Developed... Currently working🛠️)**...
 
 ### Frameworks and Libraries
 - **PyTorch**: Machine learning and AI
 - **Node.js**: Server-side development
 - **PyQt**: Python GUI Interface
+- **.NET**: Framework from Microsoft
 
 ### Tools and Platforms
 - **Git/GitHub**: Version control and collaboration
