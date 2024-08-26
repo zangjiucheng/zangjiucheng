@@ -33,8 +33,8 @@ I'm Jiucheng Zang, a Computer Science and Mathematics student at the University 
 - [**Team Website**](https://www.waterloorocketry.com/)
 - **Duration**: Mar 2024 - Present
 - **Responsibilities**: 
-  - Contribute to Rocket Launch System Analysis System
-  - DevOps workflow on GitHub
+  - Launched the first bipropellant liquid-fueled rocket “Borealis” in Canada.
+  - Contributed to a real-time rocket launch analysis system with CAN Bus and PyQt GUI.
 
 ### Vanier Robotics Teams
 - **Title**: Software Engineer
