@@ -30,7 +30,7 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 ## 💼 Experience
 
 ### Waterloo Rocketry
-- **Title**: Software Developer
+- **Title**: Software Team Leader
 - [**Team Website**](https://www.waterloorocketry.com/)
 - **Duration**: Mar 2024 - Present
 - **Responsibilities**: 
@@ -49,27 +49,30 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 ## 📚 Projects
 
 ### [NixSetupKit](https://github.com/zangjiucheng/NixSetupKit)
-**Description**: A toolkit for setting up and configuring NixOS environments.  
-**Tech Stack**: NixOS, Shell Scripting
+**Description**: A toolkit for rapid deployment of development environments in few minutes.
+**Tech Stack**: NixOS, Shell Scripting, Nix
 
 ### [CourseExplorer](https://github.com/zangjiucheng/CourseExplorer)
 **Description**: A tool designed to simplify course selection for University of Waterloo students.  
 **Tech Stack**: Python, MongoDB (No-SQL)
+
+### [InboxGenius](https://github.com/JunzhL/InboxGenius)
+**Description**: InboxGenius is an AI-powered mail client designed to revolutionize how you manage your email.
+**Tech Stack**: Gemini API, Flask, and MongoDB
 
 ### [GalaxyTrek-Planner](https://github.com/zangjiucheng/GalaxyTrek-Planner)
 **Description**: A planner application designed for organizing intergalactic travels and missions.  
 **Tech Stack**: Python, PyQt
 
 ### [quivr (Contribute)](https://github.com/zangjiucheng/quivr)
-**Description**: Contributing to the quivr project to enhance its functionalities and features.  
+**Description**: Contributing to the quivr project to enhance its functionalities and features (Vector-Database).  
 
 ### [Vanier-Robotics/RobotUtils](https://github.com/Vanier-Robotics/RobotUtils)
 **Description**: Implementing C++ standard library components for robotics applications.  
 **Tech Stack**: avr-gcc, Arduino
 
 ### [blog.page](https://github.com/zangjiucheng/blog.page)
-**Description**: My personal blog where I share insights and tutorials on various tech topics.  
-**Tech Stack**: HTML, CSS, JavaScript
+**Description**: My personal blog, sharing my daily life and posting youtube videos.
 
 ---
 
