@@ -30,12 +30,18 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 ## 💼 Experience
 
 ### Waterloo Rocketry
-- **Title**: Software Team Leader
+- **Title**: Software Engineer 
 - [**Team Website**](https://www.waterloorocketry.com/)
 - **Duration**: Mar 2024 - Present
 - **Responsibilities**: 
   - Launched the first bipropellant liquid-fueled rocket “Borealis” in Canada.
   - Contributed to a real-time rocket launch analysis system with CAN Bus and PyQt GUI.
+
+### Minoh Company
+- **Title**: Data Scientist
+- **Duration**: Apr 2024 – Aug 2024
+- **Responsibilities**:
+  - Analyzed social media data to identify market trends.
 
 ### Vanier Robotics Teams
 - **Title**: Software Engineer
