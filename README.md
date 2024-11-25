@@ -18,24 +18,35 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 - **Node.js**: Server-side development
 - **PyQt**: Python GUI Interface
 - **.NET**: Framework from Microsoft
+- **Vue.js**
+- **Next.js**
 
 ### Tools and Platforms
 - **Git/GitHub**: Version control and collaboration
 - **Docker**: Containerization and microservices
 - **NixOS(Linux)**: Reproducible Linux Systems 
-- **VSCode/Vim**: Integrated Development Environments (IDEs)
+- **VSCode/Neovim**: Integrated Development Environments (IDEs)
+- **dwm(suckness)**: Personal Desktop Environment
 
 ---
 
 ## 💼 Experience
 
 ### Waterloo Rocketry
-- **Title**: Software Engineer 
+- **Title**: Software Team Lead 
 - [**Team Website**](https://www.waterloorocketry.com/)
 - **Duration**: Mar 2024 - Present
 - **Responsibilities**: 
-  - Launched the first bipropellant liquid-fueled rocket “Borealis” in Canada.
-  - Contributed to a real-time rocket launch analysis system with CAN Bus and PyQt GUI.
+  - Launched the first bipropellant liquid-fueled rocket “Borealis” in Canada. (First place for LC 2024 advanced category)
+  - Contributed to a real-time rocket launch analysis system [omnibus](https://github.com/waterloo-rocketry/omnibus) with CAN Bus and PyQt GUI.
+
+### MME IST Department, University of Waterloo
+- **Title**: Software Engineer
+- **Duration**: Oct 2024 - Present
+- **Key Achievements and Responsibilities**:
+  - Designed and implemented a robust data warehouse system to optimize the university's admission processes, enhancing data accessibility and decision-making efficiency.
+  - Spearheaded DevOps improvements by integrating Docker containers, reducing deployment times and streamlining the development lifecycle.
+  - Collaborated with cross-functional teams to ensure seamless system integration and scalability.
 
 ### Minoh Company
 - **Title**: Data Scientist
@@ -87,7 +98,9 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 - **University of Waterloo**
   - Bachelor of Honours Mathematics
   - Expected Graduation: Aug. 2023 - Apr. 2028
-  - Relevant Courses: Data Structures and Algorithms, Operating Systems, Database Systems, Artificial Intelligence, Discrete Mathematics, Linear Algebra
+  - Relevant Courses:
+  - (CS) Data Structures and Algorithms, Operating Systems, Database Systems, Artificial Intelligence
+  - (MATH) Discrete Mathematics, Linear Algebra, Optimization, Combination
 
 - **Vanier CÉGEP**
   - Computer Science and Mathematics
