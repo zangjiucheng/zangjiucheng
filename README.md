@@ -8,28 +8,6 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 
 ---
 
-## 🛠️ Skills
-
-### Programming Languages
-**Python**, **Racket**, **Java**, **C/C++**, **Rust**, **TypeScript**, **CWave(Self-Developed... Currently working🛠️)**...
-
-### Frameworks and Libraries
-- **PyTorch**: Machine learning and AI
-- **Node.js**: Server-side development
-- **PyQt**: Python GUI Interface
-- **.NET**: Framework from Microsoft
-- **Vue.js**
-- **Next.js**
-
-### Tools and Platforms
-- **Git/GitHub**: Version control and collaboration
-- **Docker**: Containerization and microservices
-- **NixOS(Linux)**: Reproducible Linux Systems 
-- **VSCode/Neovim**: Integrated Development Environments (IDEs)
-- **dwm(suckness)**: Personal Desktop Environment
-
----
-
 ## 💼 Experience
 
 ### Waterloo Rocketry
@@ -38,15 +16,23 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 - **Duration**: Mar 2024 - Present
 - **Responsibilities**: 
   - Launched the first bipropellant liquid-fueled rocket “Borealis” in Canada. (First place for LC 2024 advanced category)
+  - Implemented Interamap for tracking and predicting landing coordinate of rocket.
   - Contributed to a real-time rocket launch analysis system [omnibus](https://github.com/waterloo-rocketry/omnibus) with CAN Bus and PyQt GUI.
+
+<p align="center">
+  <a href="https://youtu.be/65qts5k77M0?si=intDiXZsGKQyY_XV">
+    <img src="https://i.ytimg.com/vi/65qts5k77M0/hq720.jpg" width="50%" height="50%">
+  </a>
+</p>
+
 
 ### MME IST Department, University of Waterloo
 - **Title**: Software Engineer
 - **Duration**: Oct 2024 - Present
 - **Key Achievements and Responsibilities**:
-  - Designed and implemented a robust data warehouse system to optimize the university's admission processes, enhancing data accessibility and decision-making efficiency.
-  - Spearheaded DevOps improvements by integrating Docker containers, reducing deployment times and streamlining the development lifecycle.
-  - Collaborated with cross-functional teams to ensure seamless system integration and scalability.
+  - Redesigned the Student Information data warehouse with scalable front-end/back-end separation.
+  - Tested RESTful APIs for seamless integration between components.
+  - Built an intuitive and responsive front-end using Vue.js, improving UI / UX.
 
 ### Minoh Company
 - **Title**: Data Scientist
@@ -63,36 +49,6 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 
 ---
 
-## 📚 Projects
-
-### [NixSetupKit](https://github.com/zangjiucheng/NixSetupKit)
-**Description**: A toolkit for rapid deployment of development environments in few minutes.
-**Tech Stack**: NixOS, Shell Scripting, Nix
-
-### [CourseExplorer](https://github.com/zangjiucheng/CourseExplorer)
-**Description**: A tool designed to simplify course selection for University of Waterloo students.  
-**Tech Stack**: Python, MongoDB (No-SQL)
-
-### [InboxGenius](https://github.com/JunzhL/InboxGenius)
-**Description**: InboxGenius is an AI-powered mail client designed to revolutionize how you manage your email.
-**Tech Stack**: Gemini API, Flask, and MongoDB
-
-### [GalaxyTrek-Planner](https://github.com/zangjiucheng/GalaxyTrek-Planner)
-**Description**: A planner application designed for organizing intergalactic travels and missions.  
-**Tech Stack**: Python, PyQt
-
-### [quivr (Contribute)](https://github.com/zangjiucheng/quivr)
-**Description**: Contributing to the quivr project to enhance its functionalities and features (Vector-Database).  
-
-### [Vanier-Robotics/RobotUtils](https://github.com/Vanier-Robotics/RobotUtils)
-**Description**: Implementing C++ standard library components for robotics applications.  
-**Tech Stack**: avr-gcc, Arduino
-
-### [blog.page](https://github.com/zangjiucheng/blog.page)
-**Description**: My personal blog, sharing my daily life and posting youtube videos.
-
----
-
 ## 🎓 Education
 
 - **University of Waterloo**
@@ -100,7 +56,7 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
   - Expected Graduation: Aug. 2023 - Apr. 2028
   - Relevant Courses:
   - (CS) Data Structures and Algorithms, Operating Systems, Database Systems, Artificial Intelligence
-  - (MATH) Discrete Mathematics, Linear Algebra, Optimization, Combination
+  - (MATH) Discrete Mathematics, Linear Algebra, Optimization, Combination, Graph, Group
 
 - **Vanier CÉGEP**
   - Computer Science and Mathematics
@@ -119,7 +75,7 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 
 ## 🎉 Fun Fact
 
-You'll likely find me exploring the great outdoors, hiking, or playing chess when I'm not coding or studying. I also enjoy writing about my tech adventures and sharing my life on my blog.
+You'll likely find me exploring the great outdoors, skiing, or appearing anywhere in the world  ¯\_(ツ)_/¯ !
 
 (Also I like to contribute to [CPython](https://github.com/python/cpython) project... that's my goal, yep!)
 
