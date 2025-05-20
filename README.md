@@ -55,8 +55,8 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
   - Bachelor of Honours Mathematics
   - Expected Graduation: Aug. 2023 - Apr. 2028
   - Relevant Courses:
-  - (CS) Data Structures and Algorithms, Operating Systems, Database Systems, Artificial Intelligence
-  - (MATH) Discrete Mathematics, Linear Algebra, Optimization, Combination, Graph, Group
+    - (CS) Data Structures and Algorithms, Operating Systems, Database Systems, Artificial Intelligence
+    - (MATH) Discrete Mathematics, Linear Algebra, Optimization, Combination, Graph, Group
 
 - **Vanier CÉGEP**
   - Computer Science and Mathematics
@@ -67,7 +67,7 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 
 ## 📫 Contact Me
 
-- **Email**: [jiucheng.zang@proton.me]
+- **Email**: [jiucheng.zang@proton.me](mailto:jiucheng.zang@proton.me)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jiucheng-zang-20940724a/)
 - **Website/Portfolio**: [My Website](https://zangjiucheng.github.io/blog.page/)
 
@@ -75,7 +75,7 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 
 ## 🎉 Fun Fact
 
-You'll likely find me exploring the great outdoors, skiing, or appearing anywhere in the world  ¯\_(ツ)_/¯ !
+You'll likely find me exploring the great outdoors, skiing, or appearing anywhere in the world  ¯\\_(ツ)\_/¯ !
 
 (Also I like to contribute to [CPython](https://github.com/python/cpython) project... that's my goal, yep!)
 
@@ -85,4 +85,4 @@ Feel free to explore my repositories and let me know if you'd like to collaborat
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zangjiucheng.zangjiucheng)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zangjiucheng&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zangjiucheng&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy) -->
