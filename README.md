@@ -8,7 +8,7 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 
 [![Jiucheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangjiucheng&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=zangjiucheng&hide=tex,jupyter%20notebook,mdx,scss&layout=compact&theme=merko)
+![Jiucheng's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=zangjiucheng&hide=tex,jupyter%20notebook,mdx,scss&layout=compact&theme=merko)
 
 ---
 
