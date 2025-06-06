@@ -1,10 +1,14 @@
 # Hi there, I'm Jiucheng Zang 👋
 
-<img align="right" src="person.png" width="40%" height="40%" />
+<img align="right" src="person.png" width="30%" height="30%" />
 
 ## About Me
 
 I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. I have a deep passion for exploring and integrating multiple technology stacks to solve real-world problems. Whether diving into algorithms' intricacies or building robust software solutions, I'm always eager to learn and grow.
+
+[![Jiucheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangjiucheng&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![Kuiliang's top langs](https://github-readme-stats.vercel.app/api/top-langs?username=zangjiucheng&hide=tex,jupyter%20notebook,mdx,scss&layout=compact&theme=merko)
 
 ---
 
@@ -84,5 +88,3 @@ You'll likely find me exploring the great outdoors, skiing, or appearing anywher
 Feel free to explore my repositories and let me know if you'd like to collaborate or learn more about my work. Thank you for visiting my GitHub profile!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zangjiucheng.zangjiucheng)
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=zangjiucheng&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy) -->
