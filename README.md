@@ -2,9 +2,11 @@
 
 <img align="right" src="person.png" width="30%" height="30%" />
 
-## About Me
+## 👨‍💻 About Me
 
-I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. I have a deep passion for exploring and integrating multiple technology stacks to solve real-world problems. Whether diving into algorithms' intricacies or building robust software solutions, I'm always eager to learn and grow.
+I'm **Jiucheng Zang**, an Honours Mathematics student at the **University of Waterloo** and a proud **CPython contributor** 🐍. I love bridging deep mathematical theory with real-world tech — from algorithmic deep dives to building sleek, scalable software.
+
+I'm constantly exploring new stacks, systems, and ideas. Whether it's a data pipeline or a launch-ready rocket, I'm all in. 🚀
 
 [![Jiucheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangjiucheng&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -56,7 +58,7 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 ## 🎓 Education
 
 - **University of Waterloo**
-  - Bachelor of Honours Mathematics
+  - Bachelor of Honours Mathematics (Combination Optimization)
   - Expected Graduation: Aug. 2023 - Apr. 2028
   - Relevant Courses:
     - (CS) Data Structures and Algorithms, Operating Systems, Database Systems, Artificial Intelligence
@@ -69,22 +71,12 @@ I'm Jiucheng Zang, a Honours Mathematics student at the University of Waterloo. 
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect!
 
 - **Email**: [jiucheng.zang@proton.me](mailto:jiucheng.zang@proton.me)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jiucheng-zang-20940724a/)
-- **Website/Portfolio**: [My Website](https://zangjiucheng.github.io/blog.page/)
+- **Website**: [My Website](https://zangjiucheng.github.io/blog.page/)
 
----
-
-## 🎉 Fun Fact
-
-You'll likely find me exploring the great outdoors, skiing, or appearing anywhere in the world  ¯\\_(ツ)\_/¯ !
-
-(Also I like to contribute to [CPython](https://github.com/python/cpython) project... that's my goal, yep!)
-
----
-
-Feel free to explore my repositories and let me know if you'd like to collaborate or learn more about my work. Thank you for visiting my GitHub profile!
+Feel free to explore my repositories and let me know if you'd like to collaborate or learn more about my work. 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zangjiucheng.zangjiucheng)
