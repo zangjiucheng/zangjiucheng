@@ -14,6 +14,8 @@ I'm constantly exploring new stacks, systems, and ideas. Whether it's a data pip
 
 ---
 
+<!--
+
 ## 💼 Experience
 
 ### Waterloo Rocketry
@@ -70,6 +72,8 @@ I'm constantly exploring new stacks, systems, and ideas. Whether it's a data pip
   - Relevant Courses:  Data Structures & Object-Oriented Programming
 
 ---
+
+-->
 
 ## 📫 Let's Connect!
 
