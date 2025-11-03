@@ -7,7 +7,7 @@
     <td style="padding-right: 20px; vertical-align: top;">
       <div style="padding: 10px; border-left: 4px solid #888;">
         <p>
-          An Honours Mathematics student at the 
+          An <strong>Combinatorics and Optimization</strong> undergraduate student at the 
           <strong>University of Waterloo</strong> and a proud <strong>CPython contributor</strong> 🐍.
           I enjoy bridging deep mathematical theory with real-world tech — from algorithmic deep dives
           to building sleek, scalable software.
